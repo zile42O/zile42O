@@ -7,27 +7,30 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> 
+    <img src="https://img.shields.io/badge/-golang-informational?logo=go&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-php-informational?logo=php&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-python-informational?logo=python&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-nodejs-informational?logo=node.js&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-js-informational?logo=javascript&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-lua-informational?logo=lua&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-pawn-informational?logo=pawn&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-c-informational?logo=c&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-rust-informational?logo=rust&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-html5-informational?logo=html5&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-css3-informational?logo=css3&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-jquery-informational?logo=jquery&style=for-the-badge&logoColor=ffffff&color=231f20"/>  
+    <img src="https://img.shields.io/badge/-bootstrap-informational?logo=bootstrap&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-android--studio-informational?logo=android-studio&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-blender-informational?logo=blender&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-photopea-informational?logo=photopea&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-docker-informational?logo=docker&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-git-informational?logo=git&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-linux-informational?logo=linux&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-mysql-informational?logo=mysql&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-sqlite-informational?logo=sqlite&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-selenium-informational?logo=selenium&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-puppeteer-informational?logo=puppeteer&style=for-the-badge&logoColor=ffffff&color=231f20"/>
+    <img src="https://img.shields.io/badge/-flask-informational?logo=flask&style=for-the-badge&logoColor=ffffff&color=231f20"/>
 </p>
 <hr>
 <p align="center">
